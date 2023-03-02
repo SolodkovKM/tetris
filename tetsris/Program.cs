@@ -1,5 +1,5 @@
-﻿using EntityesClass;
-using Background;
+﻿using EntityClass;
+using BackgroundClass;
 
 namespace Tetris
 {
