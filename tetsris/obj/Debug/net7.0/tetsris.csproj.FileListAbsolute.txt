@@ -1,0 +1,15 @@
+C:\Users\Kost\Desktop\с# project\tetsris\bin\Debug\net7.0\tetsris.exe
+C:\Users\Kost\Desktop\с# project\tetsris\bin\Debug\net7.0\tetsris.deps.json
+C:\Users\Kost\Desktop\с# project\tetsris\bin\Debug\net7.0\tetsris.runtimeconfig.json
+C:\Users\Kost\Desktop\с# project\tetsris\bin\Debug\net7.0\tetsris.dll
+C:\Users\Kost\Desktop\с# project\tetsris\bin\Debug\net7.0\tetsris.pdb
+C:\Users\Kost\Desktop\с# project\tetsris\obj\Debug\net7.0\tetsris.csproj.AssemblyReference.cache
+C:\Users\Kost\Desktop\с# project\tetsris\obj\Debug\net7.0\tetsris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kost\Desktop\с# project\tetsris\obj\Debug\net7.0\tetsris.AssemblyInfoInputs.cache
+C:\Users\Kost\Desktop\с# project\tetsris\obj\Debug\net7.0\tetsris.AssemblyInfo.cs
+C:\Users\Kost\Desktop\с# project\tetsris\obj\Debug\net7.0\tetsris.csproj.CoreCompileInputs.cache
+C:\Users\Kost\Desktop\с# project\tetsris\obj\Debug\net7.0\tetsris.dll
+C:\Users\Kost\Desktop\с# project\tetsris\obj\Debug\net7.0\refint\tetsris.dll
+C:\Users\Kost\Desktop\с# project\tetsris\obj\Debug\net7.0\tetsris.pdb
+C:\Users\Kost\Desktop\с# project\tetsris\obj\Debug\net7.0\tetsris.genruntimeconfig.cache
+C:\Users\Kost\Desktop\с# project\tetsris\obj\Debug\net7.0\ref\tetsris.dll
